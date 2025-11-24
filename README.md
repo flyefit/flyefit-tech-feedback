@@ -10,8 +10,7 @@ The Discussions section provides a place for members, partners, and developers t
 
 ## Not for Member Service
 This repository does not replace or overlap with FLYEfit Member Service.  
-For account issues, membership queries, billing questions, or any help regarding your MyFLYE account, please contact **FLYEfit Member Service** at  
-[**memberservice@flyefit.ie**](mailto:memberservice@flyefit.ie).
+For account issues, membership queries, billing questions, or any help regarding your MyFLYE account, please contact **FLYEfit Member Service** at [**memberservice@flyefit.ie**](mailto:memberservice@flyefit.ie).
 
 ## How to Participate
 1. Open the **Discussions** tab.
