@@ -1,25 +1,19 @@
-# FLYEfit Developer Forum
+# FLYEfit Product Feedback
 
-This repository hosts public discussions about the FLYEfit Mobile App and API ecosystem.  
-Members, developers, and partners can use the Discussions section to:
+This repository is used to collect public feedback, ideas, and suggestions related to FLYEfit digital products (Mobile App, APIs, Website and other systems).
 
-- Share feedback on existing features
-- Suggest new functionality
-- Report issues or behaviour in the app/API
-- Ask technical questions
-- Follow our platform roadmap updates
+## Purpose
+The Discussions section provides a place for members, partners, and developers to:
+- Suggest new features
+- Share feedback on existing functionality
+- Discuss improvements to digital FLYEfit products
 
-No source code is published here. All operational projects remain private.
+## Not for Member Service
+This repository does not replace or overlap with FLYEfit Member Service.  
+For account issues, membership queries, billing questions, or any help regarding your MyFLYE account, please contact **FLYEfit Member Service** at  
+[**memberservice@flyefit.ie**](mailto:memberservice@flyefit.ie).
 
 ## How to Participate
-1. Visit the **Discussions** tab.
-2. Select the category that best fits your topic.
-3. Create a new thread or join an existing one.
-
-## Guidelines
-- Keep conversations constructive and on-topic.
-- No confidential or personal data.
-- Technical implementation details of private systems should not be shared.
-
-## Links
-- Discussions: https://github.com/flyefit/developer-forum/discussions
+1. Open the **Discussions** tab.
+2. Choose the appropriate category.
+3. Start a new discussion or join an existing one.
